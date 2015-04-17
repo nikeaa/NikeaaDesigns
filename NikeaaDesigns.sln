@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NikeaaDesigns.Web", "NikeaaDesigns.Web\NikeaaDesigns.Web.csproj", "{94280BFC-D82B-4D05-A509-58D426915D79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NikeaaDesigns.Tests.Unit", "NikeaaDesigns.Tests.Unit\NikeaaDesigns.Tests.Unit.csproj", "{B5CEC5F1-DFF4-41DE-A46A-DF61C1EDD973}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://nikeaa.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = NikeaaDesigns.Tests.Unit\\NikeaaDesigns.Tests.Unit.csproj
+		SccProjectName1 = NikeaaDesigns.Tests.Unit
+		SccLocalPath1 = NikeaaDesigns.Tests.Unit
+		SccProjectUniqueName2 = NikeaaDesigns.Web\\NikeaaDesigns.Web.csproj
+		SccProjectName2 = NikeaaDesigns.Web
+		SccLocalPath2 = NikeaaDesigns.Web
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94280BFC-D82B-4D05-A509-58D426915D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94280BFC-D82B-4D05-A509-58D426915D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94280BFC-D82B-4D05-A509-58D426915D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94280BFC-D82B-4D05-A509-58D426915D79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5CEC5F1-DFF4-41DE-A46A-DF61C1EDD973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5CEC5F1-DFF4-41DE-A46A-DF61C1EDD973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5CEC5F1-DFF4-41DE-A46A-DF61C1EDD973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5CEC5F1-DFF4-41DE-A46A-DF61C1EDD973}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
